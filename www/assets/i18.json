@@ -2,9 +2,9 @@
     "app": {
         "admob": {
             "unlock_robot": {
-                "ar": "فتح الروبوت مودي",
-                "en": "Open Mody robot",
-                "de": "Öffnen Sie den Mody-Roboter"
+                "ar": "فتح الروبوت روبوت متكلم",
+                "en": "Open  robot",
+                "de": "Öffnen Sie den -Roboter"
             },
             "watch_ad_msg": {
                 "ar": "شاهد فيديو قصير لفتح هذه الخدمة مرة واحدة مجاناً",
@@ -288,7 +288,7 @@
                 "en": "Internet connection has been restored"
             },
             "donwload_app": {
-                "ar": "حمل تطبيق الروبوت مودي عربي من خلال متجر جوجل بلاي",
+                "ar": "حمل تطبيق الروبوت روبوت متكلم عربي من خلال متجر جوجل بلاي",
                 "en": "Download App From Google Play Store"
             }
         },
